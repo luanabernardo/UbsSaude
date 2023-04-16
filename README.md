@@ -14,36 +14,35 @@ FOCO:Postos de sáude
 * para separar as funcionalidades e facilitar a estilização `View`
 
 
-* para renderizar a lista de opções
-* 
-`TouchableOpacity`
+* para renderizar a lista de opções `FlatList`
 
-*  para tornar cada item da lista clicável
-`TextInput `
 
-* para criar um campo de pesquisa
-`ScrollView `
+*  para tornar cada item da lista clicável `TouchableOpacity`
 
-* para permitir que o texto mostrado na tela seja rolado, se necessário
-`onChangeText`
 
-* Para mostrar onde está localizado o que o usuário escrever 
-`TouchableComponents e Button - OnPress`
+* para criar um campo de pesquisa`TextInput `
 
-*  criar elementos clicávei, botoes, junto do onpress para dar alguma funcionalidade aos botoes
-`Text `
 
-* para exibir o texto na tela
-`Icon `
+* para permitir que o texto mostrado na tela seja rolado, se necessário`ScrollView `
+
+
+* Para mostrar onde está localizado o que o usuário escrever `onChangeText`
+
+
+*  criar elementos clicávei, botoes, junto do onpress para dar alguma funcionalidade aos botoes`TouchableComponents e Button - OnPress`
+
+
+* para exibir o texto na tela`Text `
+
 @expo/vector-icons
-* para mostrar ícones das opções na lista
+* para mostrar ícones das opções na lista`Icon `
 
 **código também usa o estado do React para gerenciar o conteúdo exibido na tela:**
 
-`useState `
 
-para definir o estado das variáveis value, showMessage, op, selectedItem e mostrando
 
-`useEffect`
+para definir o estado das variáveis value, showMessage, op, selectedItem e mostrando`useState `
 
- para executar a lógica de mostrar ou ocultar a mensagem quando o usuário escreve algo no campo de pesquisa
+
+
+ para executar a lógica de mostrar ou ocultar a mensagem quando o usuário escreve algo no campo de pesquisa`useEffect`
