@@ -8,7 +8,7 @@ FOCO:Postos de sáude
 
  *É apresentado um menu de opções (Agendamento, Vacinas, Remédios, Perfil e Ubs) que, quando clicadas, mostram um texto relacionado à opção selecionada. Além disso, o aplicativo tem um campo de pesquisa que, se o usuário escrever "Vacina", mostra uma mensagem informando que a opção de vacina está na segunda posição do menu.*
 
-**O código usa os seguintes componentes do React Native:**
+### **O código usa os seguintes componentes do React Native:**
 
 
 * para separar as funcionalidades e facilitar a estilização `View`
@@ -37,7 +37,7 @@ FOCO:Postos de sáude
 
 * @expo/vector-icons para mostrar ícones das opções na lista `Icon `
 
-## **código também usa o estado do React para gerenciar o conteúdo exibido na tela:**
+### **código também usa o estado do React para gerenciar o conteúdo exibido na tela:**
 
 
 
