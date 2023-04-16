@@ -2,7 +2,7 @@
 
 FOCO:Postos de sáude
 
-*Este é um aplicativo que tem como objetivo diminuir as filas de marcação,vacinas,as de pegar medicamento, procurar unidades, dando uma alternativa para tudo isso por meio de funções em aplicativos*
+*Este é um aplicativo que tem como objetivo diminuir as filas de marcação,vacinas,as de pegar medicamento, procurar unidades, dando uma alternativa para tudo isso por meio de funções no aplicativo*
 
 >Explicando o código
 
