@@ -10,12 +10,12 @@ FOCO:Postos de sáude
 
 **O código usa os seguintes componentes do React Native:**
 
-`View`
-* para separar as funcionalidades e facilitar a estilização
 
-`FlatList
+* para separar as funcionalidades e facilitar a estilização `View`
+
 
 * para renderizar a lista de opções
+* 
 `TouchableOpacity`
 
 *  para tornar cada item da lista clicável
