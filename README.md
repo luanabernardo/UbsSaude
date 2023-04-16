@@ -20,29 +20,29 @@ FOCO:Postos de sáude
 *  para tornar cada item da lista clicável `TouchableOpacity`
 
 
-* para criar um campo de pesquisa`TextInput `
+* para criar um campo de pesquisa `TextInput `
 
 
-* para permitir que o texto mostrado na tela seja rolado, se necessário`ScrollView `
+* para permitir que o texto mostrado na tela seja rolado, se necessário `ScrollView `
 
 
 * Para mostrar onde está localizado o que o usuário escrever `onChangeText`
 
 
-*  criar elementos clicávei, botoes, junto do onpress para dar alguma funcionalidade aos botoes`TouchableComponents e Button - OnPress`
+*  criar elementos clicávei, botoes, junto do onpress para dar alguma funcionalidade aos botoes `TouchableComponents e Button - OnPress`
 
 
-* para exibir o texto na tela`Text `
+* para exibir o texto na tela `Text `
 
-@expo/vector-icons
-* para mostrar ícones das opções na lista`Icon `
+
+*@expo/vector-icons para mostrar ícones das opções na lista`Icon `* 
 
 **código também usa o estado do React para gerenciar o conteúdo exibido na tela:**
 
 
 
-para definir o estado das variáveis value, showMessage, op, selectedItem e mostrando`useState `
+* para definir o estado das variáveis value, showMessage, op, selectedItem e mostrando`useState `
 
 
 
- para executar a lógica de mostrar ou ocultar a mensagem quando o usuário escreve algo no campo de pesquisa`useEffect`
+ * para executar a lógica de mostrar ou ocultar a mensagem quando o usuário escreve algo no campo de pesquisa`useEffect`
