@@ -35,9 +35,9 @@ FOCO:Postos de sáude
 * para exibir o texto na tela `Text `
 
 
-*@expo/vector-icons para mostrar ícones das opções na lista`Icon `* 
+* @expo/vector-icons para mostrar ícones das opções na lista `Icon `
 
-**código também usa o estado do React para gerenciar o conteúdo exibido na tela:**
+## **código também usa o estado do React para gerenciar o conteúdo exibido na tela:**
 
 
 
